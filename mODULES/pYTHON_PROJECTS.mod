@@ -1,0 +1,5 @@
++ Nackademin-Python any D:\Github\Nackademin-Python\
+MAYA_SCRIP_PATH +:= sCRIPTS
+MAYA_PLUG_IN_PATH +:= pLUGINS
+MAYA_SHELF_PATH +:= cUSTOM_SHELVES
+XBMLANGPATH +:= cUSTOM_ICONS
